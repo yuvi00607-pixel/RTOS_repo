@@ -158,8 +158,4 @@ This repository was created to:
 - Real-Time Data Logging
 - OLED/LCD Interfacing
 
----
 
-## License
-
-This project is licensed under the MIT License.
